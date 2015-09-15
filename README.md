@@ -5,7 +5,7 @@ Creates a default directory structure with some of the basics files for a basic 
 ###Usage
 ```
 $ sudo chmod + default-structure-generator.sh # Permission for execution
-$ ./default-structure-generator # Execute on the folder where the project will be on.
+$ ./default-structure-generator.sh # Execute on the folder where the project will be on.
 ```
 ---------------------------------------
 
