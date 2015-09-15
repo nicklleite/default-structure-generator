@@ -2,6 +2,12 @@
 Creates a default directory structure with some of the basics files for a basic web application.
 
 ---------------------------------------
+###Usage
+```
+$ sudo chmod + default-structure-generator.sh # Permission for execution
+$ ./default-structure-generator # Execute on the folder where the project will be on.
+```
+---------------------------------------
 
 ###Structure generated
 ####For LESS
